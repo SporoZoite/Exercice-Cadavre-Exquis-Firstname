@@ -10,3 +10,11 @@
 <img src="https://i.pinimg.com/originals/34/c3/20/34c3208612a15b9ac63920b082e4b95e.jpg"
 alt="spaceship"
 style="float: left; margin-right: 10px;" />
+
+The mechanic be like : "Wut ?"
+
+The guy from the future be like: "The pirate ship !"
+
+The mechanic be like: "What do we do ??"
+
+The guy from the future be like: "Hide yo kids, hide yo wife ! ... Sorry wrong reference"
