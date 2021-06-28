@@ -11,14 +11,18 @@
 alt="spaceship"
 style="float: left; margin-right: 10px;" />
 
-The mechanic be like : "Wut ?"
++The mechanic be like : "Wut ?"
 
-The guy from the future be like: "The pirate ship !"
++The guy from the future be like: "The pirate ship !"
 
-The mechanic be like: "What do we do ??"
++The mechanic be like: "What do we do ??"
 
-The guy from the future be like: "Hide yo kids, hide yo wife ! ... Sorry wrong reference" <br>
++The guy from the future be like: "Hide yo kids, hide yo wife ! ... Sorry wrong reference" <br>
 
-The mechanic runs to warn the captain <br>
-"It is already too late" said the captain pointing the burglar alarm <br>
-A message is heard: "Evacuate the ship, this is not an exercise! I repeat ..." <br>
++The mechanic runs to warn the captain 
+
++"It is already too late" said the captain pointing the burglar alarm 
+
++A message is heard: "Evacuate the ship, this is not an exercise! I repeat ..."
+
+ 
